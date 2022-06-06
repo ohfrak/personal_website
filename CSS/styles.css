@@ -2,7 +2,8 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  font-size: 200%;
+  font-size: 100%;
+  background-color: #92A9BD;
 }
 
 h1 {
@@ -22,9 +23,7 @@ h3 {
 }
 
 .top-container {
-  background-color: #92A9BD;
   position: relative;
-  padding-top: 100px;
 }
 
 .bottom-cloud {
@@ -37,4 +36,8 @@ h3 {
   position: absolute;
   right: 300px;
   top: 50px;
+}
+
+.profile {
+  position: relative;
 }
