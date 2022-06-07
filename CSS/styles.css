@@ -21,13 +21,38 @@ h1 {
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   font-weight: normal;
 }
 
 h3 {
   color: #668FBF;
   font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link{
+  box-shadow:inset 0 0 15px 3px #23395e;
+background:linear-gradient(to bottom, #2e466e 5%, #415989 100%);
+background-color:#2e466e;
+border-radius:17px;
+border:1px solid #1f2f47;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family: 'Merriweather', serif;
+font-size:15px;
+padding:6px 13px;
+text-decoration:none;
+text-shadow:0 1px 0 #263666;
+}
+
+.footer-link:hover {
+	background:linear-gradient(to bottom, #415989 5%, #2e466e 100%);
+	background-color:#415989;
+}
+.footer-link:active {
+	position:relative;
+	top:1px;
 }
 
 .top-container {
