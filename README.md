@@ -1,1 +1,1 @@
-# Hi I'm Tyler and this if for my personal website and resume
+# Hi I'm Tyler and this is for my personal website and resume
